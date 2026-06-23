@@ -15,6 +15,7 @@ Status Bar
 Responsive Layout
 Clean and Organized Code
 Built Completely from Scratch
+
 🛠️ Technologies Used
 HTML5
 CSS3
